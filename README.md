@@ -1,6 +1,6 @@
 # Projekt jachtu żaglowego – analiza hydrostatyczna i hydrodynamiczna (Maxsurf)
 
-Repozytorium zawiera projekt wstępny jednokadłubowego jachtu żaglowego wykonany w ramach przedmiotu **Podstawy projektowania jachtów żaglowych** na kierunku **Mechanika i Projektowanie Maszyn** na Wydziale Mechanicznym Energetyki i Lotnictwa Politechniki Warszawskiej.
+Repozytorium zawiera projekt wstępny jednokadłubowego jachtu żaglowego.
 
 Projekt obejmuje opracowanie geometrii kadłuba oraz przeprowadzenie podstawowych analiz hydrostatycznych, statecznościowych, hydrodynamicznych oraz osiągów żeglarskich z wykorzystaniem pakietu **Maxsurf**.
 
